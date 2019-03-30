@@ -1,0 +1,29 @@
+body {
+    background-color: #dae1e7;
+    color: #dd6b4d;
+}
+
+.section__title {
+    background-color: #dd6b4d;
+    color: #1c4b82;
+}
+
+.section__paragraph {
+    background-color: #1c4b82;
+    color: #dae1e7;
+}
+
+.section__subtitle {
+    background-color: #183661;
+    color: #df0054;
+}
+
+.section__paragraph--secondary {
+    background-color: #df0054;
+    color:#dae1e7;
+}
+
+.section__list {
+        background-color: #ff8b6a;
+        color: #dae1e7;
+}
